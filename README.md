@@ -21,14 +21,7 @@ Tenho 32 anos, moro no interior do estado de SP, sou estudante de Tecnologia da 
 
 
 <div>
-   <a href="https://github.com/L1u2c/Lucas-Jorge-Silva-de-Brito">
-   <img height="180em" src=""/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/L1u2c">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1u2c&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
-
