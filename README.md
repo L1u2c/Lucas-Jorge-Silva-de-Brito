@@ -27,3 +27,5 @@ Tenho 32 anos, moro no interior do estado de SP, sou estudante de Tecnologia da 
 </div>
 
     
+![Snake animation](https://github.com/L1u2c/L1u2c/blob/output/github-contribution-grid-snake.svg)
+
