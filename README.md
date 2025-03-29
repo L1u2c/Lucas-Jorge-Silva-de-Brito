@@ -25,6 +25,4 @@ Tenho 32 anos, moro no interior do estado de SP, sou estudante de Tecnologia da 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1u2c&layout=compact&langs_count=6&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L1u2c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-![Snake animation](https://github.com/L1u2c/L1u2c/blob/output/github-contribution-grid-snake.svg)
-
 </div>
